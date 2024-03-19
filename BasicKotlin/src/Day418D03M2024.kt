@@ -18,7 +18,7 @@ fun main() {
         while (randomPersons.size < how) {
             val randomIndex = randoms.nextInt(personNames.size)
             val personName = personNames[randomIndex]
-            if (!selectedPersons.contains(personName)) {
+            if (!selectedPersons.contains(personName)){
                 randomPersons.add(personName)
                 selectedPersons.add(personName)
             }
@@ -28,10 +28,11 @@ fun main() {
     }
 
     /*Array MutableListof */
-    val numbers = mutableListOf(1, 2, 3, 4, 5, 6, 10, 12)
+
+    /*val numbers = mutableListOf(1, 2, 3, 4, 5, 6, 10, 12)
     numbers.add(9)
     numbers.add(14 + 1)
     numbers.removeAt(0)
     numbers[1] = 23
-    println(numbers)
+    println(numbers)*/
 }
