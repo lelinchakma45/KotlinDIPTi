@@ -1,11 +1,11 @@
 import java.util.Scanner
+
 fun main(){
     var number = 1
     while (number < 10){
         println(number)
         number++
     }
-
 
     var names = arrayOf("Lelin Chakma", "Md Shakil", "Tansen","Tanay Dewan", "Rimon Talukder")
 
