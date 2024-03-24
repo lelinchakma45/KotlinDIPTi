@@ -10,9 +10,9 @@ fun main(){
 //        println("This is consonants")
 //    }
 
-    when(char){
-        "A","a","E","e","I","i","O","o","U","u" -> println("This is Vowel")
-        else -> println("This is consonants")
-    }
+//    when(char){
+//        "A","a","E","e","I","i","O","o","U","u" -> println("This is Vowel")
+//        else -> println("This is consonants")
+//    }
 
 }
