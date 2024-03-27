@@ -3,6 +3,22 @@
   <component name="ChangeListManager">
     <list default="true" id="85bb7a78-3f8c-42be-8686-cb414af64ec1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicKotlin/out/production/untitled/Assignment/PiramidKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/BasicKotlin/out/production/BasicKotlin/Assignment/PiramidKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicKotlin/out/production/untitled/Day1027D03M2024/Cars.class" beforeDir="false" afterPath="$PROJECT_DIR$/BasicKotlin/out/production/BasicKotlin/Day1027D03M2024/Cars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicKotlin/out/production/untitled/Day1027D03M2024/Fruits.class" beforeDir="false" afterPath="$PROJECT_DIR$/BasicKotlin/out/production/BasicKotlin/Day1027D03M2024/Fruits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicKotlin/out/production/untitled/Day1027D03M2024/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/BasicKotlin/out/production/BasicKotlin/Day1027D03M2024/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicKotlin/out/production/untitled/Day418D03M2024/Day418D03M2024Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/BasicKotlin/out/production/BasicKotlin/Day418D03M2024/Day418D03M2024Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicKotlin/out/production/untitled/Day519D03M2024/Day519D03M2024Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/BasicKotlin/out/production/BasicKotlin/Day519D03M2024/Day519D03M2024Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicKotlin/out/production/untitled/Day620D03M2024/Day620D03M2024Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/BasicKotlin/out/production/BasicKotlin/Day620D03M2024/Day620D03M2024Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicKotlin/out/production/untitled/Day723D03M2024/Day723D03M2024Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/BasicKotlin/out/production/BasicKotlin/Day723D03M2024/Day723D03M2024Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicKotlin/out/production/untitled/Day824D03M2024/Day824D03M2024Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/BasicKotlin/out/production/BasicKotlin/Day824D03M2024/Day824D03M2024Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicKotlin/out/production/untitled/Day925D03M2024/Day925D03M2024Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/BasicKotlin/out/production/BasicKotlin/Day925D03M2024/Day925D03M2024Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicKotlin/out/production/untitled/Exam01_24_03_2024/Question1Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/BasicKotlin/out/production/BasicKotlin/Exam01_24_03_2024/Question1Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicKotlin/out/production/untitled/Exam01_24_03_2024/Question2Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/BasicKotlin/out/production/BasicKotlin/Exam01_24_03_2024/Question2Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicKotlin/out/production/untitled/Exam01_24_03_2024/Question3Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/BasicKotlin/out/production/BasicKotlin/Exam01_24_03_2024/Question3Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicKotlin/out/production/untitled/Exam01_24_03_2024/Question4Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/BasicKotlin/out/production/BasicKotlin/Exam01_24_03_2024/Question4Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicKotlin/out/production/untitled/META-INF/untitled.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/BasicKotlin/out/production/BasicKotlin/META-INF/untitled.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicKotlin/untitled.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,15 +36,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/DIPTI_LAB/Documents/GitHub/KotlinDIPTi&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/DIPTI_LAB/Documents/GitHub/KotlinDIPTi",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
